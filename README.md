@@ -1,2 +1,2 @@
 # Speech-API-App
-"Jarvis" built in Javascript
+"Jarvis" app built in Javascript
