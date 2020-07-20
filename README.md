@@ -1,2 +1,3 @@
 # Speech-API-App
-"Jarvis" app built in Javascript
+"Jarvis-like" app built in Javascript, HTML and CSS
+API included
