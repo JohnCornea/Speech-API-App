@@ -1,3 +1,3 @@
 # Speech-API-App
 "Jarvis-like" app built in Javascript, HTML and CSS
-Speech API included
+I've used the Speech API "SpeechSynthesis" for this project
